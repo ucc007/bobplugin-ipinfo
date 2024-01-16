@@ -1,6 +1,6 @@
 
 function supportLanguages() {
-    return ['auto', 'zh-Hans', 'en', 'it', 'nl', 'fr', 'de', 'es', 'ja', 'ko', 'ru', 'pt', 'pl'];
+    return ['auto', 'zh-Hans','zh-Hant', 'en', 'it', 'nl', 'fr', 'de', 'es', 'ja', 'ko', 'ru', 'pt', 'pl'];
 }
 
 function nameUpper(str) {
